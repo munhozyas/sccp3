@@ -2,6 +2,7 @@ body {
     color: rgb(226, 165, 203);
     background-color: black;
      margin: 0px;
+     font-family: "Libertinus Sans", sans-serif;
 }
 header {
     border-bottom: solid 2px rgb(221, 134, 192);
@@ -16,6 +17,7 @@ section {
     display: flex;
     justify-content: center;
 }
+
 .chamada-texto {
     margin-right: 5%;
 }
